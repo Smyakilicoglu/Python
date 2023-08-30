@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat May  6 15:26:37 2023
-
-@author: Sümeyra KILIÇOĞLU
 """
 
 logo = """           
