@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May  5 17:14:11 2023
-
-@author: Sümeyra KILIÇOĞLU
 
 import math
 math.ceil(#girilen ondalıklı sayıyı tama çevirir. yuvarlar)
